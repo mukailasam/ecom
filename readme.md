@@ -16,7 +16,7 @@ Ecom is an online marketplace that provides buyers and sellers with an avenue to
 
 clone the repo
 ```
-git clone https://github.com/ftsog/ecom
+git clone https://github.com/mukailasam/ecom
 
 ```
 move into the program directory
