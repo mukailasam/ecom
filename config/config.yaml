@@ -1,0 +1,19 @@
+postgresql:
+  host: 127.0.0.1
+  port: 5432
+  user: postgres
+  dbname: ecom
+  password: rootpass
+  sslmode: prefer
+
+redis:
+  host: 127.0.0.1
+  port: 6379
+  password: rootpass
+  secretkey: rootpass
+
+mailer:
+  host: smtp.gmail.com
+  port: 465
+  email: sam@example.com
+  password: abrt hxes qwqw szoe
